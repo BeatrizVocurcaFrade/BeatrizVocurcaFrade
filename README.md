@@ -114,7 +114,7 @@ Helped build a QR-code exhibition guide app for Palácio das Artes, one of Belo 
 ## Education
 
 - **B.Sc. in Systems Engineering**, Federal University of Minas Gerais (UFMG), 2020 – 2026. Thesis: *Monitoring and Optimizing Resource Consumption in Flutter Apps* (advisor: Prof. Ramon Lacerda Marques), which produced [collector_flutter](https://github.com/BeatrizVocurcaFrade/collector_flutter).
-- **English**, CCAA, 2008 – 2019. TOEFL certified.
+- **Languages:** Portuguese (native) · English (intermediate, TOEFL certified; CCAA, 2008 – 2019).
 
 ## Let's connect
 
