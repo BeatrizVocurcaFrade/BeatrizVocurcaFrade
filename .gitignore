@@ -1,8 +1,10 @@
-# LaTeX build artifacts (PDFs are published from resume/)
+# LaTeX build artifacts (PDFs are published to resume/ by resume/src/build.sh)
 resume/src/*.aux
 resume/src/*.log
 resume/src/*.out
 resume/src/*.fls
 resume/src/*.fdb_latexmk
 resume/src/*.synctex.gz
+resume/src/*.toc
+resume/src/*.xdv
 resume/src/*.pdf
